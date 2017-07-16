@@ -1,0 +1,19 @@
+{
+  "name": "eyequeue",
+  "version": "1.0.0",
+  "description": "App designed to help users find the shortest line for them",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ali Martinez-Hernandez, Cassandra Pierre-Louis, George Ingleton, Sheriff Ahmed & Daryl Holman Jr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "hbs": "^4.0.1",
+    "mongoose": "^4.11.1"
+  }
+}
